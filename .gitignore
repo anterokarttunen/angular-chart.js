@@ -4,3 +4,4 @@ test/fixtures/shots/
 bower_components/
 coverage/
 examples/bundle.js
+angular-chart.js.iml
